@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# Here list of my fav things
+- Tablet
+- Mobile
+- Laptop
+- iphone
